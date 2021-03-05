@@ -1,15 +1,16 @@
-id: opecha:P007070
+id: P007070
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG11938
   title: སྒྲོལ་མའི་ཆོས་སྐོར།
-  volume:
+  author: ''
+  volumes:
     edf45545550e4bf59b59850ece40dc2f:
       image_group_id: I1KG11941
       title: Volume 1 of sgrol ma'i chos skor/
       volume_number: 1
       total_pages: 190
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྒྲོལ་མའི་ཆོས་སྐོར།
   author: ''
